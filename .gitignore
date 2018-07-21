@@ -20,7 +20,7 @@
 /node_modules
 /yarn-error.log
 
-/config/*yml
+/config/*.yml
 /.idea
 
 .byebug_history
