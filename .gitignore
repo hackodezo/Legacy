@@ -22,5 +22,5 @@
 
 /config/*.yml
 /.idea
-
+/db/schema.rb
 .byebug_history
